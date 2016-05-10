@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Programming\\Android\\Sunshine-Version-2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Programming\\Android\\Sunshine-Version-2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Belajar Android\\Sunshine-Version-2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Belajar Android\\Sunshine-Version-2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Programming\\Android\\Sunshine-Version-2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\forecastfragment.xml",
+        "source": "D:\\Programming\\Android\\Sunshine-Version-2\\app\\src\\main\\res\\menu\\forecastfragment.xml"
+    }
+]
